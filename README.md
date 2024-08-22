@@ -6,7 +6,9 @@ Let's break down the core concepts and mechanics you'll be implementing.
 Platform Control:
 
 Objective: Use arrow keys to move the platform left or right.
+
 Implementation: Your platform moves horizontally based on key input.
+
 Limitations: Ensure the platform stays within the screen boundaries.
 Bouncing Ball Dynamics:
 
